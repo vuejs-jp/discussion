@@ -1,9 +1,13 @@
 # discussion
 
+## !!!!! 注意 !!!!!
+現在 Vue.js 日本ユーザーグループ向けの この discussion は使用されていません。
 
-ここは、日本ユーザー向けの [Vue.js](http://vuejs.org/) について情報を共有したりディスカッションする場を提供するところです。
+[Vue.js オフィシャルフォーラム](http://forum.vuejs.org) の開設によって、この discussion は使われなくなりました。
+今後は、Vue.js オフィシャルフォーラムでお願いいたします。
 
-何か話したいこと聞きたいことがありましたら、気軽に [issues] (https://github.com/vuejs-jp/discussion/issues) をオープンしましょう！
+基本英語ですが、[言語別のフォーラム](http://forum.vuejs.org/category/11/japanese) があるので、日本語でもOKです。:smiley_cat:
 
-今すぐ、誰かに話したい、聞きたいことがありましたら、こちらのチャットで！
+## gitter について
+日本語の gitter ですが、とりあえず、日本ユーザーのコミュニーケーションの場として、このまま残しておきます。
 [![Join the chat at https://gitter.im/vuejs-jp/discussion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vuejs-jp/discussion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
