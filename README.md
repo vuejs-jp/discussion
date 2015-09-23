@@ -6,7 +6,7 @@
 [Vue.js オフィシャルフォーラム](http://forum.vuejs.org) の開設によって、この discussion は使われなくなりました。
 今後は、Vue.js オフィシャルフォーラムでお願いいたします。
 
-基本英語ですが、[言語別のフォーラム](http://forum.vuejs.org/category/11/japanese) があるので、日本語でもOKです。:smiley_cat:
+基本英語ですが、[言語別のフォーラム](http://forum.vuejs.org/category/11/日本語) があるので、日本語でもOKです。:smiley_cat:
 
 ## gitter について
 日本語の gitter ですが、とりあえず、日本ユーザーのコミュニーケーションの場として、このまま残しておきます。
